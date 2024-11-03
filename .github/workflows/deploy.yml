@@ -9,6 +9,9 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    env:
+      CI: false
+      REACT_APP_BASEURL: /react-document
     permissions:
       contents: write
     concurrency:
