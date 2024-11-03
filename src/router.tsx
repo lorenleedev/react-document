@@ -47,6 +47,8 @@ const router = createBrowserRouter([
     path: "/documents/7",
     element: <Document7/>,
   },
-]);
+], {
+  basename: process.env.REACT_APP_BASEURL
+});
 
 export default router;
