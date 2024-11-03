@@ -1,0 +1,73 @@
+.nav {
+    width: 300px;
+    border-right: 1px dashed var(--primary-border);
+    height: 100vh;
+}
+.header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    margin-bottom: 20px;
+    gap: 8px;
+    border-bottom: 2px dashed var(--primary-border);
+    cursor: pointer;
+}
+.nav-title {
+    font-size: 24px;
+    text-align: center;
+    font-weight: bolder;
+}
+.nav-title > span {
+    font-size: 14px;
+    display: inline-block;
+    margin-bottom: 4px;
+    font-weight: lighter;
+    color: var(--primary-color);
+}
+
+.update-date {
+    font-size: 11px;
+    color: var(--primary-color);
+    margin-top: 24px;
+    font-style: italic;
+    opacity: 0.4;
+}
+
+.logo {
+    width: 60px;
+}
+
+.menu-list {
+    display: flex;
+    flex-direction: column;
+    height: calc(100vh - 300px);
+    overflow-y: auto;
+}
+
+.arrow-bottom {
+    text-align: center;
+    padding: 20px;
+    /*color: var(--primary-background);*/
+    opacity: .5;
+    font-size: 14px;
+}
+
+.menu-item {
+    width: 300px;
+    padding: 5px 10px;
+}
+
+.menu-item >  a {
+    display: block;
+    padding: 20px 16px;
+    color: var(--primary-text);
+    text-decoration: none;
+    transition: all ease-in .2s;
+}
+
+.menu-item >  a:hover, a.active {
+    background: var(--primary-background);
+    border-radius: 10px;
+    color: var(--primary-color);
+}
