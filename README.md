@@ -7,6 +7,6 @@
 
 ## 배포된 링크
 
-https://lorenleedev.github.io/react-document
+https://lorenleedev.github.io/react-document  
 
-![스크린샷 2024-11-03 오후 9.06.26.png](..%2F..%2FDesktop%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-11-03%20%EC%98%A4%ED%9B%84%209.06.26.png)
+<img width="1436" alt="스크린샷 2024-11-03 오후 9 06 26" src="https://github.com/user-attachments/assets/774bf0d2-5d94-4c8f-88f8-c26cb0c0251c">
