@@ -9,4 +9,4 @@
 
 https://lorenleedev.github.io/react-document  
 
-<img width="1436" alt="스크린샷 2024-11-03 오후 9 06 26" src="https://github.com/user-attachments/assets/774bf0d2-5d94-4c8f-88f8-c26cb0c0251c">
+<img width="1428" alt="스크린샷 2024-11-03 오후 9 09 29" src="https://github.com/user-attachments/assets/61fe6dc0-1060-4c2c-a8a0-6d1a63e7b77a">
